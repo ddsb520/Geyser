@@ -19,6 +19,7 @@ Geyser是一个代理，弥合了 Minecraft: 基岩版 和 Minecraft：Java版 �
 看看 [这里]（https://wiki.geysermc.org/geyser/setup/） 如何设置Geyser。
 
 [![YouTube Video](https://img.youtube.com/vi/U7dZZ8w7Gi4/0.jpg)](https://www.youtube.com/watch?v=U7dZZ8w7Gi4)
+
 大陆地区无法访问。
 
 ## 友情链接：
